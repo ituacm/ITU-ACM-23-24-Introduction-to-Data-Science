@@ -1,1 +1,51 @@
 # ITU-ACM-23-24-Introduction-to-Data-Sience
+
+??day ??.00 @ ??
+
+**The course will be in Turkish.**
+
+## Prerequisities
+
+➡ Intedmediate Python knowledge!
+
+➡ Familiarity with Numpy and Pandas!
+
+➡ Entry-level Calculus, Linear Algebra and Statistics knowledge!
+
+➡ Wishing for a pleasant journey in the world of data is required!
+
+## Goals
+
+Obtaining, organizing and visualizing data and creating a project with meaningful results. In doing so, utilizing machine learning concepts.
+
+The students will:
+- represent basic real-world problems with Python.
+- become familiar with fundamental data types and control structures of Python.
+- organize their programs with functions and imports.
+- use object oriented programming techniques to model their environment.
+
+## Syllabus
+
+|     #           | Topic                          | Instructor(s)                        | Time - Place
+| :----------------: | :-------------------------------: | :-----------------------------: | :-----------------------------: |
+| Lecuture 1 | Data Operations (Scrapping, Processing, Visualizing) | [*M. Tolga Kılınçkaya*](https://github.com/TolgaKilinckaya)| xx.12.2023 xx:00|
+| Lecuture 2 | Regression Problem | [*M. Tolga Kılınçkaya*](https://github.com/TolgaKilinckaya)| xx.12.2023 xx:00|
+| Lecuture 3 | Classification Problem | [*M. Tolga Kılınçkaya*](https://github.com/TolgaKilinckaya)|  xx.12.2023 xx:00|
+| Lecuture 4 | LLMs | [*M. Tolga Kılınçkaya*](https://github.com/TolgaKilinckaya)|  xx.12.2023 xx:00|
+
+<p align="center"><b>Lectures will be around 1 hours</b></p>
+
+
+## Setup
+
+*Detailed setup instructions will be given during the first class.*
+- Conda 4.12.0 with Python 3.9 for [*Windows*](https://docs.conda.io/en/latest/miniconda.html#windows-installers), [*Mac OS X*](https://docs.conda.io/en/latest/miniconda.html#macos-installers), [*Linux/UNIX*](https://docs.conda.io/en/latest/miniconda.html#linux-installers)
+- VS Code for [*Windows*](https://code.visualstudio.com/docs/?dv=win), [*Mac OS X*](https://code.visualstudio.com/docs/?dv=osx), [*Linux/UNIX*](https://code.visualstudio.com/docs/?dv=linux64_deb) (*or any text editor of your choice*)
+
+
+<p align="center">
+  <a href="//ituacm.com" target="_blank">
+    <img src="https://ituacm.com/wp-content/uploads/2017/08/itu-logo.png">
+  </a>
+</p>
+

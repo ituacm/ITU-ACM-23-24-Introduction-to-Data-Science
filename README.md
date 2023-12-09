@@ -1,4 +1,4 @@
-# ITU-ACM-23-24-Introduction-to-Data-Sience
+# ITU-ACM-23-24-Introduction-to-Data-Science
 
 ??day ??.00 @ ??
 

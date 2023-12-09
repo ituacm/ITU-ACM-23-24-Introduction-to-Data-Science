@@ -19,10 +19,10 @@
 Obtaining, organizing and visualizing data and creating a project with meaningful results. In doing so, utilizing machine learning concepts.
 
 The students will:
-- represent basic real-world problems with Python.
-- become familiar with fundamental data types and control structures of Python.
-- organize their programs with functions and imports.
-- use object oriented programming techniques to model their environment.
+- be able to bring complex datasets into a simple format.
+- visualize data and draw meaningful conclusions.
+- use basic machine learning concepts.
+- have an idea about how Large Language Models work.
 
 ## Syllabus
 

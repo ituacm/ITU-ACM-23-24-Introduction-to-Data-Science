@@ -1,6 +1,6 @@
 # ITU-ACM-23-24-Introduction-to-Data-Science
 
-??day ??.00 @ ??
+28.12.2023 Thursday 18.00 @ MED A15
 
 **The course will be in Turkish.**
 
@@ -28,10 +28,10 @@ The students will:
 
 |     #           | Topic                          | Instructor(s)                        | Time - Place
 | :----------------: | :-------------------------------: | :-----------------------------: | :-----------------------------: |
-| Lecuture 1 | Data Operations (Scrapping, Processing, Visualizing) | [*M. Tolga Kılınçkaya*](https://github.com/TolgaKilinckaya)| xx.12.2023 xx:00|
-| Lecuture 2 | Regression Problem | [*M. Tolga Kılınçkaya*](https://github.com/TolgaKilinckaya)| xx.12.2023 xx:00|
-| Lecuture 3 | Classification Problem | [*M. Tolga Kılınçkaya*](https://github.com/TolgaKilinckaya)|  xx.12.2023 xx:00|
-| Lecuture 4 | LLMs | [*M. Tolga Kılınçkaya*](https://github.com/TolgaKilinckaya)|  xx.12.2023 xx:00|
+| Lecuture 1 | Data Operations (Scrapping, Processing, Visualizing) | [*M. Tolga Kılınçkaya*](https://github.com/TolgaKilinckaya)| 28.12.2023 18:00|
+| Lecuture 2 | Regression Problem | [*M. Tolga Kılınçkaya*](https://github.com/TolgaKilinckaya)| 28.12.2023 18:30|
+| Lecuture 3 | Classification Problem | [*M. Tolga Kılınçkaya*](https://github.com/TolgaKilinckaya)|  28.12.2023 19:30|
+| Lecuture 4 | LLMs | [*M. Tolga Kılınçkaya*](https://github.com/TolgaKilinckaya)|  28.12.2023 20:30|
 
 <p align="center"><b>Lectures will be around 1 hours</b></p>
 
